@@ -23,7 +23,7 @@ Aplikasi ini memungkinkan user untuk:
 
 1️⃣ Clone & Install Dependency  
 ```bash
-git clone <repository_url>
+git clone https://github.com/jimmywiraarbaa/api-empolyee-tracking.git
 cd api-employee-tracking
 composer install
 ```
